@@ -22,7 +22,7 @@ int main(){
     media = (nota1 + nota2) / 2;
 
     //informando ao usuário
-    cout << "A média do aluno é :" << media << endl;
+    cout << "A media do aluno eh :" << media << endl;
 
     system("pause");
 
