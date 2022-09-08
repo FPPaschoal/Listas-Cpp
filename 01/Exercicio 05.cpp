@@ -34,7 +34,7 @@ int main() {
     //Informando o usuário sobre os resultados
     cout << "O X1 eh: " << Resultado1;
 
-    cout << "\n \n O X2 eh: " << Resultado2 << endl;
+    cout << "\n \nO X2 eh: " << Resultado2 << endl;
 
 
     system("pause");
